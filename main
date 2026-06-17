@@ -2,7 +2,7 @@ local map = {
     [93978595733734] = "VIP",
 }
 
-local base = "https://raw.githubusercontent.com/Pandu-Hub12/rosblox/main/"
+local base = "https://raw.githubusercontent.com/Pandu-Hub12/rosblox/refs/heads/main/"
 
 local scriptName = map[game.PlaceId] or "all_map"
 
